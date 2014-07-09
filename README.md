@@ -4,6 +4,5 @@ doremi
 
 error 
 
-Nowe zmiany w pliku
 
 a
