@@ -2,7 +2,7 @@ Ala ma kota.
 
 doremi
 
-lorem 
+error 
 
 Nowe zmiany w pliku
 
